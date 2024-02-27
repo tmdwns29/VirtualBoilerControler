@@ -1,4 +1,4 @@
-#include <SHT1x.h> // 온습도센서 라이브러리
+#include <SHT1x.h> // 온습도센서 라이브러리(따로 설치 요망)
 #include <Wire.h> // LCD 모듈 라이브러리
 #include <LiquidCrystal.h> // LCD 모듈 라이브러리
 #define dataPin 22 // 온습도 핀 [J2]
